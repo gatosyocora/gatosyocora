@@ -1,4 +1,4 @@
-# gatosyocora / がとーしょこら
+# :birthday:gatosyocora / がとーしょこら
 
 ```gatosyocora.json
 {
@@ -8,13 +8,13 @@
 }
 ```
 
-## Production
+## :rocket:Production
 * UnityEditorExtension (Unity / C#)  
 * VRChatWorldGimic with UdonSharp (Unity / UdonSharp)  
 * WPF Application (C# / XAML / MVVM)  
 * Android Application(Java / Kotlin / XAML)  
 
-## Links
+## :link:Links
 :mag: Qiita: https://qiita.com/gatosyocora  
 :camel: Booth: https://gatosyocora.booth.pm/  
 :green_book: Hatena blog: https://gatosyocora.hatenablog.com/
