@@ -1,11 +1,17 @@
 # gatosyocora / がとーしょこら
+VR/UX/VirtualAgent
 
-
-## lang
+## Lang
 C#/UdonSharp and more  
 JP/EN
 
-## links
+## Production
+* UnityEditorExtension  
+* VRChatWorldGimic with UdonSharp  
+* WPF Application  
+* Android Application(Java/Kotlin)  
+
+## Links
 * Qiita: https://qiita.com/gatosyocora
 * Booth: https://gatosyocora.booth.pm/
 * Hatena blog: https://gatosyocora.hatenablog.com/
