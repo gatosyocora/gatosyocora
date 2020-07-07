@@ -16,7 +16,7 @@
 
 [look at my repositories](https://github.com/gatosyocora?tab=repositories)
 
-## contacts
+## :globe_with_meridians:contacts
 :bird: twitter: [@gatosyocora](https://twitter.com/gatosyocora)  
 :email: email: gatosyocora36@gmail.com  
 
