@@ -12,7 +12,7 @@
 }
 ```
 
-## :rocket:Production
+## :rocket:Productions
 * UnityEditorExtension (Unity / C#)  
 * VRChatWorldGimic with UdonSharp (Unity / UdonSharp)  
 * WPF Application (C# / XAML / MVVM)  
