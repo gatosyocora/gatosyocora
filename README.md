@@ -1,5 +1,9 @@
 # :birthday:gatosyocora / がとーしょこら
 
+![build:passing](http://img.shields.io/badge/build-passing-pass.svg?style=flat) 
+![version:1.0](http://img.shields.io/badge/version-1.0-green.svg?style=flat) 
+![status:WIP](http://img.shields.io/badge/status-WIP-orange.svg?style=flat) 
+
 ```gatosyocora.json
 {
   "favorites":["VR", "UX", "VirtualAgent"],
