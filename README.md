@@ -1,4 +1,11 @@
-### Hi there 👋
+### gatosyocora / がとーしょこら
+
+### lang
+C#/UdonSharp and more
+
+### links
+[Qiita](https://qiita.com/gatosyocora)
+[Booth](https://gatosyocora.booth.pm/)
 
 <!--
 **gatosyocora/gatosyocora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
