@@ -1,9 +1,11 @@
 # gatosyocora / がとーしょこら
-VR / UX / VirtualAgent
-
-## Lang
-C# / UdonSharp and more  
-JP / EN
+```gatosyocora.json
+{
+  "favorites":["VR", "UX", "VirtualAgent"],
+  "lang":["C#", "UdonSharp"],
+  "country":"JP"
+}
+```
 
 ## Production
 * UnityEditorExtension  
