@@ -8,15 +8,15 @@
 ```
 
 ## Production
-* UnityEditorExtension  
-* VRChatWorldGimic with UdonSharp  
-* WPF Application  
-* Android Application(Java/Kotlin)  
+* UnityEditorExtension (Unity / C#)  
+* VRChatWorldGimic with UdonSharp (Unity / UdonSharp)  
+* WPF Application (C# / XAML / MVVM)  
+* Android Application(Java / Kotlin / XAML)  
 
 ## Links
-* Qiita: https://qiita.com/gatosyocora
-* Booth: https://gatosyocora.booth.pm/
-* Hatena blog: https://gatosyocora.hatenablog.com/
+:mag: Qiita: https://qiita.com/gatosyocora  
+:camel: Booth: https://gatosyocora.booth.pm/  
+:paw_prints: Hatena blog: https://gatosyocora.hatenablog.com/
 
 <!--
 **gatosyocora/gatosyocora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
