@@ -1,9 +1,10 @@
-### gatosyocora / がとーしょこら
+# gatosyocora / がとーしょこら
 
-### lang
+
+## lang
 C#/UdonSharp and more
 
-### links
+## links
 * Qiita: https://qiita.com/gatosyocora
 * Booth: https://gatosyocora.booth.pm/
 * Hatena blog: https://gatosyocora.hatenablog.com/
