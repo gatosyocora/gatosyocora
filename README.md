@@ -1,4 +1,5 @@
 # gatosyocora / がとーしょこら
+
 ```gatosyocora.json
 {
   "favorites":["VR", "UX", "VirtualAgent"],
@@ -16,7 +17,7 @@
 ## Links
 :mag: Qiita: https://qiita.com/gatosyocora  
 :camel: Booth: https://gatosyocora.booth.pm/  
-:paw_prints: Hatena blog: https://gatosyocora.hatenablog.com/
+:green_book: Hatena blog: https://gatosyocora.hatenablog.com/
 
 <!--
 **gatosyocora/gatosyocora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
