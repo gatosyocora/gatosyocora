@@ -14,6 +14,12 @@
 * WPF Application (C# / XAML / MVVM)  
 * Android Application(Java / Kotlin / XAML)  
 
+[look at my repositories](https://github.com/gatosyocora?tab=repositories)
+
+## contacts
+:bird: twitter: [@gatosyocora](https://twitter.com/gatosyocora)  
+:email: email: gatosyocora36@gmail.com  
+
 ## :link:Links
 :mag: Qiita: https://qiita.com/gatosyocora  
 :camel: Booth: https://gatosyocora.booth.pm/  
