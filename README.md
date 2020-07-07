@@ -3,6 +3,7 @@
 
 ## lang
 C#/UdonSharp and more
+JP/EN
 
 ## links
 * Qiita: https://qiita.com/gatosyocora
