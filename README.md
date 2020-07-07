@@ -1,9 +1,9 @@
 # gatosyocora / がとーしょこら
-VR/UX/VirtualAgent
+VR / UX / VirtualAgent
 
 ## Lang
-C#/UdonSharp and more  
-JP/EN
+C# / UdonSharp and more  
+JP / EN
 
 ## Production
 * UnityEditorExtension  
