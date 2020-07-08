@@ -20,12 +20,12 @@
 
 [look at my repositories](https://github.com/gatosyocora?tab=repositories)
 
-## :globe_with_meridians:contacts
+## :globe_with_meridians:Contacts
 :bird: twitter: [@gatosyocora](https://twitter.com/gatosyocora)  
 :email: email: gatosyocora36@gmail.com  
 
 ## :link:Links
-:mag: Qiita: https://qiita.com/gatosyocora  
+:mag: Qiita: https://qiita.com/gatosyocora/  
 :camel: Booth: https://gatosyocora.booth.pm/  
 :green_book: Hatena blog: https://gatosyocora.hatenablog.com/
 
