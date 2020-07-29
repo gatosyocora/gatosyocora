@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gatosyocora&show_icons=true" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora" />
 </a>
 
 ## :star:Profile
