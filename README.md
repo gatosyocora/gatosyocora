@@ -6,7 +6,9 @@
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gatosyocora&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora&layout=compact" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora&layout=compact" />
 </a>
 
 ## :star:Profile
