@@ -4,8 +4,10 @@
 ![version:1.0](http://img.shields.io/badge/version-1.0-green.svg?style=flat) 
 ![status:WIP](http://img.shields.io/badge/status-WIP-orange.svg?style=flat) 
 
-![status](https://github-readme-stats.vercel.app/api?username=gatosyocora&show_icons=true)
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora&layout=compact)
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gatosyocora&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora&layout=compact" />
+</a>
 
 ## :star:Profile
 
