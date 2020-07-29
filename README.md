@@ -4,7 +4,10 @@
 ![version:1.0](http://img.shields.io/badge/version-1.0-green.svg?style=flat) 
 ![status:WIP](http://img.shields.io/badge/status-WIP-orange.svg?style=flat) 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora
+![status](https://github-readme-stats.vercel.app/api?username=gatosyocora&show_icons=true)
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora&layout=compact)
+
+## :star:Profile
 
 ```gatosyocora.json
 {
@@ -13,14 +16,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=gatosyocora
   "country":"JP"
 }
 ```
-
-## :rocket:Productions
-* UnityEditorExtension (Unity / C#)  
-* VRChatWorldGimmick with UdonSharp (Unity / UdonSharp)  
-* WPF Application (C# / XAML / MVVM)  
-* Android Application(Java / Kotlin / XAML)  
-
-[look at my repositories](https://github.com/gatosyocora?tab=repositories)
 
 ## :globe_with_meridians:Contacts
 :bird: twitter: [@gatosyocora](https://twitter.com/gatosyocora)  
