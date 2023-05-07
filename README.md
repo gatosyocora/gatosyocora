@@ -26,6 +26,7 @@
 :mag: Qiita: https://qiita.com/gatosyocora/  
 :camel: Booth: https://gatosyocora.booth.pm/  
 :green_book: Hatena blog: https://gatosyocora.hatenablog.com/
+:blue_book: New blog: https://blog.gatosyocora.net/
 
 <!--
 **gatosyocora/gatosyocora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
