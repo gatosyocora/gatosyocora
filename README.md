@@ -13,7 +13,7 @@
 ```gatosyocora.json
 {
   "favorites":["VR", "UX", "VirtualAgent"],
-  "lang":["C#", "UdonSharp"],
+  "lang":["C#", "Kotlin", "UdonSharp"],
   "country":"JP"
 }
 ```
