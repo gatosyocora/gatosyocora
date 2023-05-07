@@ -25,7 +25,7 @@
 ## :link:Links
 :mag: Qiita: https://qiita.com/gatosyocora/  
 :camel: Booth: https://gatosyocora.booth.pm/  
-:green_book: Hatena blog: https://gatosyocora.hatenablog.com/
+:green_book: Hatena blog: https://gatosyocora.hatenablog.com/  
 :blue_book: New blog: https://blog.gatosyocora.net/
 
 <!--
